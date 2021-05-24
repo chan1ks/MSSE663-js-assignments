@@ -2,8 +2,8 @@
 export const fruits = ['apple', 'banana'];
 
 // Currently, I would get the following:
-console.log(a); // 'apple'
-console.log(b); // 'banana'
+console.log(fruits[0]); // 'apple'
+console.log(fruits[1]); // 'banana'
 
 // deconstruct here
 
