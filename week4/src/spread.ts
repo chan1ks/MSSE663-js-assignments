@@ -9,6 +9,7 @@ console.log(originalNumbers);
 // #2 Combining arrays
 export const winners = ['first'];
 export const runnerUps = ['second', 'third', 'fourth', 'fifth'];
+export const originalCompetitors = winners.concat(runnerUps)
 
 // refactor here
 
